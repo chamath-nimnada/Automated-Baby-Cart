@@ -55,6 +55,10 @@ This project focuses on building a Baby Caring Robot designed to assist parents 
 6. **Automated Baby Cradle with Remote Accessibility**  
    By integrating motorized movement with obstacle avoidance, line-following capabilities, and smartphone-based controls into the cradle system, parents can summon the cradle to their location at the press of a button on their phone, ensuring convenience and peace of mind.
 
+## Flow Chart
+
+![Prototype Image](images/flowChart.png)
+
 ## Conclusion
 
 The Baby Caring Robot is an innovative solution designed to address common challenges faced by parents in childcare. By automating routine tasks and providing timely alerts, this robot aims to enhance the overall childcare experience, allowing parents to focus on other responsibilities while ensuring their baby's needs are met efficiently.
